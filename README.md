@@ -1,4 +1,4 @@
-![logo](hhttps://godigiworld.com/wp-content/uploads/2021/04/iOS_App.gif)
+![logo](https://godigiworld.com/wp-content/uploads/2021/04/iOS_App.gif)
 <h1 align="center">Hi 👋, I'm Ruchira Sinha</h1>
 <h3 align="center">iOS Developer 📱 | Swift Enthusiast 🚀 | Building apps that matter ❤️</h3>
 <img align="right" alt="coding" width="400" src="https://d540vms5r2s2d.cloudfront.net/mad/uploads/mad_blog_5d8c6c86cdb001569483910.gif">
