@@ -4,11 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://d540vms5r2s2d.cloudfront.net/mad/uploads/mad_blog_5d8c6c86cdb001569483910.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riiruchi&label=Profile%20views&color=0e75b6&style=flat" alt="riiruchi" /> </p>
 
-- 🔭 I’m currently working on [Travel Journey](https://github.com/riiruchi/Travel-Journey)
-
-- 🌱 I’m currently learning **Swift, iOS App Architecture and Swift UI**
-
-- 👯 I’m looking to collaborate on [Weather App](https://github.com/riiruchi/Weather-App)
+- 🌱 I’m currently learning **Swift UI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/riiruchi?tab=repositories](https://github.com/riiruchi?tab=repositories)
 
